@@ -3,8 +3,4 @@
 @tailwind utilities;
 
 
-body {
-  @apply text-white bg-gray
-}
-
 
